@@ -1,9 +1,4 @@
-//
-//  Routes.swift
-//  EconCruise
-//
-//  Created by Fuad Waheed on 20/08/2025.
-//
+
 
 import Foundation
 import SwiftUI
